@@ -1,1 +1,1 @@
-# centos
+# centos image Dockerfile
